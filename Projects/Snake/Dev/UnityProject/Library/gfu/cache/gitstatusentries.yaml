@@ -1,0 +1,1101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-05-28T18:47:51.897+01:00
+  initializedAtString: 2020-05-28T18:45:24.054+01:00
+  entries:
+  - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\.icon.png
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\.icon.png
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\.icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\136dc24f151211d438acee17aff4e934\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\151a1d946b98deb4b98445400983ba92\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\15ca2bebf173f2d4484686a03a45b56d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\181f65fb096cedd4493bc9971257d8b1\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\18e096a98c2704c40a818dd1214cd179\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\18e096a98c2704c40a818dd1214cd179\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\18e096a98c2704c40a818dd1214cd179\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\18e096a98c2704c40a818dd1214cd179\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\18e096a98c2704c40a818dd1214cd179\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\18e096a98c2704c40a818dd1214cd179\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\23c8bee69b591054094d32918f98facd\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\480071253ef427a4cbc55ef1fedca3e5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\555cd6f54c03341b1970d950df1a5ee5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\5a2082a44711bad4b90f693579c2b336\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\636d33ae594884e7d80b569f429d245d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\6e4df876417ac4c4f8862a5234b25615\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\720712be6e31c444f88f57bb85bf5fa5\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\720712be6e31c444f88f57bb85bf5fa5\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\720712be6e31c444f88f57bb85bf5fa5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\790749ba7e4b18141953e39cb13f1b79\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\868fbb4c41814baebc00f96e24ede2f8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\877ef3585573ce44eab899298be23158\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a0ded7adcc817ce489fec07977f16d13\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\a0ded7adcc817ce489fec07977f16d13\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a0ded7adcc817ce489fec07977f16d13\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\a83159a46d87d2a4f8cec651049b9231\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c5c83d14802e712408f23409f3c59e26\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ab\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\c743ae24ee231884887054d20ccdd0ae\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\cad92998c5182496e8b989b406d9f156\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\cad92998c5182496e8b989b406d9f156\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\cad92998c5182496e8b989b406d9f156\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\cad92998c5182496e8b989b406d9f156\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\cad92998c5182496e8b989b406d9f156\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\cad92998c5182496e8b989b406d9f156\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d516f2a1bec6a9645a084ef8c9237132\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\dae2ecee8a704dd59797e26554ff8606\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\ddb8611e748af425a82a497ac5a98c0c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\preview.png
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\preview.png
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f81094832d834c64d93b198cb16b6a3e\preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\Export
+      Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    projectPath: Temp\Export Package\696785c37bf156c44a9bb955f10cfb5e\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityLockfile
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
+    projectPath: Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
+    projectPath: Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
+    projectPath: Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
+    projectPath: Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
+    projectPath: Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
+    projectPath: Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
+    projectPath: Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
+    projectPath: Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
+    projectPath: Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
+    projectPath: Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
+    projectPath: Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
+    projectPath: Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
+    projectPath: Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
+    projectPath: Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
+    projectPath: Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
+    projectPath: Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
+    projectPath: Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
+    fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
+    projectPath: Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
