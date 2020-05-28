@@ -1,0 +1,1 @@
+Projects layer. Directories for all current projects.
