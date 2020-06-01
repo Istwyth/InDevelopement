@@ -13,9 +13,219 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-01T20:05:00.739+01:00
-  initializedAtString: 2020-06-01T19:58:39.659+01:00
+  lastUpdatedAtString: 2020-06-01T20:07:22.546+01:00
+  initializedAtString: 2020-06-01T20:06:59.888+01:00
   log:
+  - commitID: 44a2e169a563b3ec469f9d9f9b2438938a8a65d2
+    mergeA: 
+    mergeB: 
+    authorName: rapson-martyn
+    authorEmail: martyn4700@gmail.com
+    commitEmail: martyn4700@gmail.com
+    commitName: rapson-martyn
+    summary: Changed SnakeBodyControl
+    description: No longer lets user go opposite direction to current direction.
+    timeString: 2020-06-01T20:06:57.000+01:00
+    commitTimeString: 2020-06-01T20:06:57.000+01:00
+    changes:
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0dfef3a9a10587b5ea329becbb3257e8a8424b58
+    mergeA: 
+    mergeB: 
+    authorName: rapson-martyn
+    authorEmail: martyn4700@gmail.com
+    commitEmail: martyn4700@gmail.com
+    commitName: rapson-martyn
+    summary: Changed SnakeBodyControl (GitHub App)
+    description: No longer lets user go opposite direction to current direction.
+    timeString: 2020-06-01T20:05:32.000+01:00
+    commitTimeString: 2020-06-01T20:05:32.000+01:00
+    changes:
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+      projectPath: .vs\UnityProject\v15\.suo
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\db.lock
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+      projectPath: Assets\SnakeMovement\SnakeBodyControl.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      projectPath: Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\UnityProject.sln
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\UnityProject.sln
+      projectPath: UnityProject.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 8d9aec47bda2dc85d81abd77591f9c430144629f
     mergeA: 
     mergeB: 
