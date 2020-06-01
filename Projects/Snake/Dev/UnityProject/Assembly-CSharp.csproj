@@ -70,6 +70,7 @@
     <Compile Include="Assets\SnakeMovement\Orientation.cs" />
     <Compile Include="Assets\SnakeMovement\SegmentMovement.cs" />
     <Compile Include="Assets\SnakeMovement\SnakeBodyControl.cs" />
+    <Compile Include="Assets\SnakeMovement\SnakeControl.cs" />
     <Compile Include="Assets\SnakeTailControl.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

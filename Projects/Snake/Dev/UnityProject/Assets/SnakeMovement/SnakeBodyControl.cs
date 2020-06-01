@@ -126,7 +126,7 @@ public class SnakeBodyControl : MonoBehaviour
             if (i != BodySegments.Count - 1) {
                 newDirections.Enqueue(CurBodySegment.GetComponent<SegmentMovement>().GetDirection());
             }
-            CurBodySegment.GetComponent<SegmentMovement>().Move(PrevDirection);
+            //CurBodySegment.GetComponent<SegmentMovement>().Move(PrevDirection);
             
 
 
@@ -152,19 +152,19 @@ public class SnakeBodyControl : MonoBehaviour
             GetRigidbody(i).MoveRotation(newDirection.getAngle());
             Debug.Log("Moving: " + i + "| ");*/
         }
-        newDirections.Enqueue(BodySegments[0].GetComponent<SegmentMovement>().GetDirection());
+        /*newDirections.Enqueue(BodySegments[0].GetComponent<SegmentMovement>().GetDirection());
         BodySegments[0].GetComponent<SegmentMovement>().Move(currentDirection);
         BodySegments[0].GetComponent<SegmentMovement>().Rotate(currentDirection);
         Direction tailMoveDirection = BodySegments[BodySegments.Count - 1].GetComponent<SegmentMovement>().GetDirection();
         Direction tailRotateDirection = BodySegments[BodySegments.Count - 2].GetComponent<SegmentMovement>().GetDirection();
         tailObject.GetComponent<SegmentMovement>().Move(tailMoveDirection);
-        tailObject.GetComponent<SegmentMovement>().Rotate(tailRotateDirection);
+        tailObject.GetComponent<SegmentMovement>().Rotate(tailRotateDirection);*/
 
         /*GetRigidbody(0).MovePosition(GetRigidbody(0).position + currentDirection.getNormalisedDirection());
         GetRigidbody(0).MoveRotation(GetDirection().getAngle());*/
         for (int i = BodySegments.Count - 1; i > 0; i--)
         {
-            BodySegments[i].GetComponent<SegmentMovement>().Rotate(newDirections.Dequeue());
+            //BodySegments[i].GetComponent<SegmentMovement>().Rotate(newDirections.Dequeue());
         }
         //tailSegment.GetComponent<SegmentMovement>().Rotate(newDirections.Dequeue());
 

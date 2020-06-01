@@ -48,7 +48,7 @@ public class GlobalClock : MonoBehaviour
     {
         foreach(GameObject snake in GameObject.FindGameObjectsWithTag("Player"))
         {
-            snake.GetComponent<SnakeBodyControl>().Move();
+            snake.GetComponent<SnakeControl>().MoveSnake();
         }
 
         /*foreach (SnakeMovement sm in FindObjectsOfType(typeof(SnakeMovement))){
