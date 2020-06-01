@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3C2DEB4E-B4B3-653A-D0D3-80B079D1D3A6}</ProjectGuid>
+    <ProjectGuid>{1A619002-4B9A-6116-9B31-D1EC3C3EFBA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -67,25 +67,25 @@
     <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
     <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -292,34 +292,34 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Api.45">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Logging">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.UnityShim">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

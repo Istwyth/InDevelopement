@@ -73,18 +73,34 @@ public class SnakeBodyControl : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.UpArrow))
         {
+            if(currentDirection.GetOpposite() == Direction.UP)
+            {
+                return currentDirection;
+            }
             return Direction.UP;
         }
         if (Input.GetKey(KeyCode.DownArrow))
         {
+            if (currentDirection.GetOpposite() == Direction.DOWN)
+            {
+                return currentDirection;
+            }
             return Direction.DOWN;
         }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
+            if (currentDirection.GetOpposite() == Direction.LEFT)
+            {
+                return currentDirection;
+            }
             return Direction.LEFT;
         }
         if (Input.GetKey(KeyCode.RightArrow))
         {
+            if (currentDirection.GetOpposite() == Direction.RIGHT)
+            {
+                return currentDirection;
+            }
             return Direction.RIGHT;
         }
         return currentDirection;

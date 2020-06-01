@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
-    width: 1920
-    height: 997
+    x: 955
+    y: 51
+    width: 964
+    height: 988
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 8}
@@ -38,10 +38,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 919
+    x: 380
     y: 0
-    width: 724
-    height: 675
+    width: 204
+    height: 666
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 19}
@@ -65,8 +65,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 675
-    width: 1920
+    y: 666
+    width: 964
     height: 272
   m_MinSize: {x: 230, y: 272}
   m_MaxSize: {x: 10000, y: 10022}
@@ -95,12 +95,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1920
-    height: 947
-  m_MinSize: {x: 610, y: 494}
-  m_MaxSize: {x: 16010, y: 14044}
+    width: 964
+    height: 938
+  m_MinSize: {x: 612, y: 494}
+  m_MaxSize: {x: 16012, y: 14044}
   vertical: 1
-  controlID: 37
+  controlID: 15
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -118,10 +118,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 198
-    height: 675
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 102
+    height: 666
+  m_MinSize: {x: 102, y: 122}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -142,10 +142,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1643
+    x: 584
     y: 0
-    width: 277
-    height: 675
+    width: 380
+    height: 666
   m_MinSize: {x: 102, y: 122}
   m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 12}
@@ -175,12 +175,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
-    height: 675
-  m_MinSize: {x: 610, y: 222}
-  m_MaxSize: {x: 16010, y: 4022}
+    width: 964
+    height: 666
+  m_MinSize: {x: 612, y: 222}
+  m_MaxSize: {x: 16012, y: 4022}
   vertical: 0
-  controlID: 38
+  controlID: 16
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,9 +201,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
-    height: 997
-  m_MinSize: {x: 950, y: 544}
+    width: 964
+    height: 988
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &9
 MonoBehaviour:
@@ -222,7 +222,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
+    width: 964
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -243,8 +243,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 977
-    width: 1920
+    y: 968
+    width: 964
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -263,10 +263,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 198
+    x: 102
     y: 0
-    width: 721
-    height: 675
+    width: 278
+    height: 666
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 18}
@@ -295,10 +295,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1643
-    y: 73
-    width: 275
-    height: 656
+    x: 1539
+    y: 81
+    width: 378
+    height: 647
   m_ViewDataDictionary: {fileID: 0}
   progressMessageClearTime: -1
   notificationClearTime: -1
@@ -308,8 +308,8 @@ MonoBehaviour:
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 0
   appManagerProgressHasUpdate: 0
-  changeTab: 4
-  activeTab: 4
+  changeTab: 3
+  activeTab: 3
   initProjectView:
     hasCompletedInitialCheck: 0
     isUserDataPresent: 0
@@ -373,14 +373,14 @@ MonoBehaviour:
         treeIsCheckable: 0
         checkState: 0
       selectedNode:
-        path: MartynDev
-        label: MartynDev
-        level: 1
+        path: 
+        label: 
+        level: 0
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
-        isActive: 1
+        isActive: 0
         treeIsCheckable: 0
         checkState: 0
     treeRemotes:
@@ -460,26 +460,26 @@ MonoBehaviour:
         treeIsCheckable: 0
         checkState: 0
       selectedNode:
-        path: 
-        label: 
+        path: Remote branches
+        label: Remote branches
         level: 0
-        isFolder: 0
+        isFolder: 1
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
         treeIsCheckable: 0
         checkState: 0
-    mode: 0
+    mode: 1
     newBranchName: 
     scroll: {x: 0, y: 0}
     disableDelete: 1
-    disableCreate: 0
+    disableCreate: 1
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2020-05-28T18:55:10.054+01:00
+      updatedTimeString: 2020-05-28T19:03:03.051+01:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2020-05-28T18:55:09.987+01:00
+      updatedTimeString: 2020-05-28T19:03:17.837+01:00
       cacheType: 1
     currentBranch:
       name: MartynDev
@@ -506,9 +506,9 @@ MonoBehaviour:
     currentBranchHasUpdate: 0
     currentStatusEntriesHasUpdate: 0
     currentLocksHasUpdate: 0
-    commitBody: 
-    commitMessage: 
-    currentBranch: '[master]'
+    commitBody: No longer lets user go opposite direction to current direction.
+    commitMessage: Changed SnakeBodyControl
+    currentBranch: '[MartynDev]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
@@ -520,13 +520,23 @@ MonoBehaviour:
         - Projects\Snake
         - Projects\Snake\Dev
         - Projects\Snake\Dev\UnityProject
+        - Projects\Snake\Dev\UnityProject\.vs
+        - Projects\Snake\Dev\UnityProject\.vs\UnityProject
+        - Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15
+        - Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server
+        - Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3
+        - Projects\Snake\Dev\UnityProject\Assets
+        - Projects\Snake\Dev\UnityProject\Assets\SnakeMovement
         - Projects\Snake\Dev\UnityProject\Library
-        - Projects\Snake\Dev\UnityProject\Library\APIUpdater
         - Projects\Snake\Dev\UnityProject\Library\gfu
         - Projects\Snake\Dev\UnityProject\Library\gfu\cache
+        - Projects\Snake\Dev\UnityProject\Library\metadata
+        - Projects\Snake\Dev\UnityProject\Library\metadata\97
         - Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies
         - Projects\Snake\Dev\UnityProject\Library\StateCache
         - Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy
+        - Projects\Snake\Dev\UnityProject\obj
+        - Projects\Snake\Dev\UnityProject\obj\Debug
         - Projects\Snake\Dev\UnityProject\Temp
         values:
         - path: Projects
@@ -538,7 +548,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -556,7 +566,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -574,7 +584,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -592,7 +602,133 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\.vs
+          label: .vs
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject
+          label: UnityProject
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15
+          label: v15
+          level: 6
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server
+          label: Server
+          level: 7
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3
+          label: sqlite3
+          level: 8
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Assets
+          label: Assets
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement
+          label: SnakeMovement
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -610,25 +746,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater
-          label: APIUpdater
-          level: 5
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -646,7 +764,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -664,7 +782,43 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\metadata
+          label: metadata
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\metadata\97
+          label: 97
+          level: 6
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -682,7 +836,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -700,7 +854,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -718,7 +872,43 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\obj
+          label: obj
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\obj\Debug
+          label: Debug
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -736,7 +926,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 0
+          checkState: 1
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -782,7 +972,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -800,7 +990,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -818,7 +1008,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -836,7 +1026,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -845,6 +1035,276 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\.vs
+        label: .vs
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject
+        label: UnityProject
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15
+        label: v15
+        level: 6
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+        label: .suo
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+          projectPath: .vs\UnityProject\v15\.suo
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server
+        label: Server
+        level: 7
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3
+        label: sqlite3
+        level: 8
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+        label: db.lock
+        level: 9
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+          projectPath: .vs\UnityProject\v15\Server\sqlite3\db.lock
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+        label: storage.ide
+        level: 9
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+          projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+        label: storage.ide-shm
+        level: 9
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+          projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+        label: storage.ide-wal
+        level: 9
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+          projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+        label: Assembly-CSharp.csproj
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+          projectPath: Assembly-CSharp.csproj
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+        label: Assembly-CSharp-Editor-firstpass.csproj
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+          projectPath: Assembly-CSharp-Editor-firstpass.csproj
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\Assets
+        label: Assets
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement
+        label: SnakeMovement
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+        label: SnakeBodyControl.cs
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+          projectPath: Assets\SnakeMovement\SnakeBodyControl.cs
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library
         label: Library
         level: 4
@@ -854,7 +1314,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -863,42 +1323,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater
-        label: APIUpdater
-        level: 5
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
-        label: project-dependencies.graph
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
-          projectPath: Library\APIUpdater\project-dependencies.graph
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
         label: assetDatabase3
         level: 5
@@ -908,12 +1332,30 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
           projectPath: Library\assetDatabase3
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+        label: CurrentLayout.dwlt
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+          projectPath: Library\CurrentLayout.dwlt
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -926,15 +1368,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
           projectPath: Library\EditorInstance.json
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\gfu
         label: gfu
         level: 5
@@ -944,7 +1386,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -962,7 +1404,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -980,15 +1422,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
           projectPath: Library\gfu\cache\branches.yaml
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
         label: gitlocks.yaml
         level: 7
@@ -998,15 +1440,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
           projectPath: Library\gfu\cache\gitlocks.yaml
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
         label: gitlog.yaml
         level: 7
@@ -1016,15 +1458,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
           projectPath: Library\gfu\cache\gitlog.yaml
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
         label: gitstatusentries.yaml
         level: 7
@@ -1034,15 +1476,15 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
           projectPath: Library\gfu\cache\gitstatusentries.yaml
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
         label: gittrackingstatus.yaml
         level: 7
@@ -1052,15 +1494,33 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
           projectPath: Library\gfu\cache\gittrackingstatus.yaml
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+        label: gituser.yaml
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+          projectPath: Library\gfu\cache\gituser.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
         label: repoinfo.yaml
         level: 7
@@ -1070,15 +1530,69 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
           projectPath: Library\gfu\cache\repoinfo.yaml
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\Library\metadata
+        label: metadata
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\metadata\97
+        label: 97
+        level: 6
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+        label: 973d20d8b7b7ae6409c16430243dde8d
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+          projectPath: Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies
         label: ScriptAssemblies
         level: 5
@@ -1088,7 +1602,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1106,7 +1620,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -1124,264 +1638,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
           projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-        label: Assembly-CSharp-Editor-firstpass.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-        label: Assembly-CSharp-Editor-firstpass.pdb
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-        label: Unity.Analytics.DataPrivacy.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-          projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-        label: Unity.Analytics.DataPrivacy.pdb
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-          projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-        label: Unity.CollabProxy.Editor.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-          projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-        label: Unity.CollabProxy.Editor.pdb
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-          projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-        label: Unity.PackageManagerUI.Editor.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-          projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-        label: Unity.TextMeshPro.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-        label: Unity.TextMeshPro.Editor.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-        label: Unity.TextMeshPro.Editor.pdb
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-        label: Unity.TextMeshPro.pdb
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
-        label: Unity.Timeline.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
-          projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-        label: Unity.Timeline.Editor.dll
-        level: 6
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-          projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Projects\Snake\Dev\UnityProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-        label: shadercompiler-UnityShaderCompiler.exe0.log
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1394,7 +1656,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1412,7 +1674,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1430,12 +1692,120 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
           fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
           projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\obj
+        label: obj
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\obj\Debug
+        label: Debug
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+        label: Assembly-CSharp.csproj.CoreCompileInputs.cache
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+          projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+        label: Assembly-CSharp.csprojAssemblyReference.cache
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+        label: Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+          projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        label: Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1448,7 +1818,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1466,7 +1836,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Projects\Snake\Dev\UnityProject\Temp\UnityLockfile
@@ -1475,327 +1845,21 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
-        label: UnityTempFile-02efeb159cdc25346b21923ce40de421
-        level: 5
+      - path: Projects\Snake\Dev\UnityProject\UnityProject.sln
+        label: UnityProject.sln
+        level: 4
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
-          projectPath: Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-        label: UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-          projectPath: Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-        label: UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-          projectPath: Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-        label: UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-          projectPath: Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-        label: UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-          projectPath: Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-        label: UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-          projectPath: Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-        label: UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-          projectPath: Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-        label: UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-          projectPath: Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-        label: UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-          projectPath: Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-        label: UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-          projectPath: Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-        label: UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-          projectPath: Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-        label: UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-          projectPath: Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-        label: UnityTempFile-6951bd61bb570d542ac067756a051921
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-          projectPath: Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-        label: UnityTempFile-71a97f80695195042b81bf826a5378ac
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-          projectPath: Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-        label: UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-          projectPath: Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-        label: UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-          projectPath: Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-        label: UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-          projectPath: Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-        label: UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-        level: 5
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-          projectPath: Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
+          path: Projects\Snake\Dev\UnityProject\UnityProject.sln
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\UnityProject.sln
+          projectPath: UnityProject.sln
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -1819,9 +1883,51 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
-    - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
-      projectPath: Library\APIUpdater\project-dependencies.graph
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+      projectPath: .vs\UnityProject\v15\.suo
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\db.lock
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+      projectPath: Assets\SnakeMovement\SnakeBodyControl.cs
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1831,48 +1937,66 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
       projectPath: Library\EditorInstance.json
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
       projectPath: Library\gfu\cache\branches.yaml
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
       projectPath: Library\gfu\cache\gitlocks.yaml
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
       projectPath: Library\gfu\cache\gitlog.yaml
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
       projectPath: Library\gfu\cache\gitstatusentries.yaml
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
       projectPath: Library\gfu\cache\gittrackingstatus.yaml
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      projectPath: Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
       projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -1885,93 +2009,33 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
-      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Projects\Snake\Dev\UnityProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
     - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
       fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
       projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1981,128 +2045,206 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
-      projectPath: Temp\UnityTempFile-02efeb159cdc25346b21923ce40de421
+    - path: Projects\Snake\Dev\UnityProject\UnityProject.sln
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\UnityProject.sln
+      projectPath: UnityProject.sln
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-      projectPath: Temp\UnityTempFile-0f82fb8055abcdd4593315148b38b0f4
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-      projectPath: Temp\UnityTempFile-1016893bcb333a04cbcd0b394b23fa50
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-      projectPath: Temp\UnityTempFile-15dcc17bc1c380245990a5cdb7835668
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-      projectPath: Temp\UnityTempFile-1d7d346cbb8aaee4e8a11e536109052d
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-      projectPath: Temp\UnityTempFile-2365a3e6843576b49aefe2db1f638ed8
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-      projectPath: Temp\UnityTempFile-2ac5b7b7e4771b64aa5de33228688c5e
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-      projectPath: Temp\UnityTempFile-37fa2df729efb7a4e93b3a2bcb82bfeb
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-      projectPath: Temp\UnityTempFile-3c0e215b006b7e54793580fb85b4955b
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-      projectPath: Temp\UnityTempFile-5112148454b8a8f4e89860e3b2f8896d
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-      projectPath: Temp\UnityTempFile-569ff252038d8084ea8a9dd94443dd67
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-      projectPath: Temp\UnityTempFile-5afb81589d4fc62439938bd739a87bf7
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-      projectPath: Temp\UnityTempFile-6951bd61bb570d542ac067756a051921
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-      projectPath: Temp\UnityTempFile-71a97f80695195042b81bf826a5378ac
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-      projectPath: Temp\UnityTempFile-811fa0fb1f969d74fa5e075db0aaae6c
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-      projectPath: Temp\UnityTempFile-c1fbebcdad7da7e4ba26269e1a6abb94
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-      projectPath: Temp\UnityTempFile-ce8c35f8cc47cf3488148609325fcfcf
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-      projectPath: Temp\UnityTempFile-e0987ce08de1f924a9fb05c97255073f
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    changedFilesText: 45 changed files
+    changedFilesText: 28 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-05-28T18:45:25.587+01:00
+      updatedTimeString: 2020-06-01T19:52:35.215+01:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-05-28T18:46:36.038+01:00
+      updatedTimeString: 2020-06-01T20:04:40.130+01:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2020-06-01T20:04:41.656+01:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+    - commitID: 8d9aec47bda2dc85d81abd77591f9c430144629f
+      mergeA: 
+      mergeB: 
+      authorName: rapson-martyn
+      authorEmail: martyn4700@gmail.com
+      commitEmail: martyn4700@gmail.com
+      commitName: rapson-martyn
+      summary: Created Dev Branch (For Martyn)
+      description: Created my own Dev branch in Unity for the Snake project
+      timeString: 2020-05-28T18:57:54.000+01:00
+      commitTimeString: 2020-05-28T18:57:54.000+01:00
+      changes:
+      - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+        projectPath: Library\APIUpdater\project-dependencies.graph
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+        projectPath: Library\CurrentLayout.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+        projectPath: Library\EditorInstance.json
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+        projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+        projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+        projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+        projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+        projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+        projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+        projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+        projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+        projectPath: Library\assetDatabase3
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+        projectPath: Library\gfu\cache\branches.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+        projectPath: Library\gfu\cache\gitlocks.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+        projectPath: Library\gfu\cache\gitlog.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+        projectPath: Library\gfu\cache\gitstatusentries.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+        projectPath: Library\gfu\cache\gittrackingstatus.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+        projectPath: Library\gfu\cache\gituser.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+        projectPath: Library\gfu\cache\repoinfo.yaml
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Projects\Snake\Dev\UnityProject\Unity.gitignore
+        fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Unity.gitignore
+        projectPath: Unity.gitignore
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
     - commitID: 00e2dc7079fb69e1e3bdd544534d25e0a364b54c
       mergeA: 
       mergeB: 
@@ -18862,14 +19004,194 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2020-05-28T18:47:22.480+01:00
+      updatedTimeString: 2020-06-01T20:05:00.739+01:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2020-06-01T20:04:40.221+01:00
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+      - commitID: 8d9aec47bda2dc85d81abd77591f9c430144629f
+        mergeA: 
+        mergeB: 
+        authorName: rapson-martyn
+        authorEmail: martyn4700@gmail.com
+        commitEmail: martyn4700@gmail.com
+        commitName: rapson-martyn
+        summary: Created Dev Branch (For Martyn)
+        description: Created my own Dev branch in Unity for the Snake project
+        timeString: 2020-05-28T18:57:54.000+01:00
+        commitTimeString: 2020-05-28T18:57:54.000+01:00
+        changes:
+        - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+          projectPath: Library\APIUpdater\project-dependencies.graph
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+          projectPath: Library\CurrentLayout.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+          projectPath: Library\EditorInstance.json
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+          projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+          projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+          projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+          projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+          projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+          projectPath: Library\assetDatabase3
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+          projectPath: Library\gfu\cache\branches.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+          projectPath: Library\gfu\cache\gitlog.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+          projectPath: Library\gfu\cache\gituser.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Projects\Snake\Dev\UnityProject\Unity.gitignore
+          fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Unity.gitignore
+          projectPath: Unity.gitignore
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
       - commitID: 00e2dc7079fb69e1e3bdd544534d25e0a364b54c
         mergeA: 
         mergeB: 
@@ -35681,32 +36003,32 @@ MonoBehaviour:
     detailsScroll: {x: 0, y: 0}
   settingsView:
     gitPathView:
-      gitPath: 
-      gitLfsPath: 
+      gitPath: C:\Users\Win 7\AppData\Local\GitHubUnity\git\cmd\git.exe
+      gitLfsPath: C:\Users\Win 7\AppData\Local\GitHubUnity\git-lfs\git-lfs.exe
       errorMessage: 
       resetToBundled: 0
       resetToSystem: 0
       changingManually: 0
-    hasRemote: 0
+    hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
-    metricsEnabled: 0
-    newRepositoryRemoteUrl: 
-    repositoryRemoteName: 
-    repositoryRemoteUrl: 
+      updatedTimeString: 2020-06-01T19:52:35.215+01:00
+      cacheType: 1
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: https://github.com/Istwyth/InDevelopement.git
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://github.com/Istwyth/InDevelopement.git
     scroll: {x: 0, y: 0}
     userSettingsView:
-      gitName: 
-      gitEmail: 
-      newGitName: 
-      newGitEmail: 
+      gitName: rapson-martyn
+      gitEmail: martyn4700@gmail.com
+      newGitName: rapson-martyn
+      newGitEmail: martyn4700@gmail.com
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 
-        cacheType: 0
-    webTimeout: 0
-    gitTimeout: 0
+        updatedTimeString: 2020-06-01T20:04:18.880+01:00
+        cacheType: 8
+    webTimeout: 3000
+    gitTimeout: 5000
   locksView:
     currentRemoteHasUpdate: 0
     currentStatusEntriesHasUpdate: 0
@@ -35730,19 +36052,187 @@ MonoBehaviour:
             email: 
           lockedAtString: 
         gitFileStatus: 0
-        lockedAt: 
+        lockedAt: 1 Jan 0001, 00:00
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2020-06-01T19:52:35.215+01:00
+      cacheType: 1
     lastLocksChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2020-06-01T20:04:41.656+01:00
+      cacheType: 7
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2020-06-01T20:04:40.130+01:00
+      cacheType: 6
     lockedFiles: []
-    gitStatusEntries: []
-    currentUsername: 
+    gitStatusEntries:
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\.suo
+      projectPath: .vs\UnityProject\v15\.suo
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\db.lock
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\db.lock
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\.vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\UnityProject\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Assets\SnakeMovement\SnakeBodyControl.cs
+      projectPath: Assets\SnakeMovement\SnakeBodyControl.cs
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      projectPath: Library\metadata\97\973d20d8b7b7ae6409c16430243dde8d
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Projects\Snake\Dev\UnityProject\Temp\UnityLockfile
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Projects\Snake\Dev\UnityProject\UnityProject.sln
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\UnityProject.sln
+      projectPath: UnityProject.sln
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    currentUsername: rapson-martyn
     unlockFileMenuContent:
       m_Text: Release Lock
       m_Image: {fileID: 0}
@@ -35768,13 +36258,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-05-28T18:55:09.987+01:00
+    updatedTimeString: 2020-06-01T19:52:35.215+01:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2020-05-28T18:47:52.034+01:00
+    updatedTimeString: 2020-06-01T20:04:40.221+01:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-05-28T18:47:51.897+01:00
+    updatedTimeString: 2020-06-01T20:04:40.130+01:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -35794,8 +36284,8 @@ MonoBehaviour:
     m_Tooltip: 
   repositoryProgressValue: 0
   repositoryProgressMessage: 
-  appManagerProgressValue: 0
-  appManagerProgressMessage: 
+  appManagerProgressValue: 0.5
+  appManagerProgressMessage: Setting up git...
   connections: []
   primaryConnectionUsername: rapson-martyn
 --- !u!114 &13
@@ -35888,9 +36378,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 748
-    width: 1920
+    x: 955
+    y: 747
+    width: 964
     height: 253
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -35905,19 +36395,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/SnakeMovement
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/SnakeMovement
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e2a0000
-    m_LastClickedID: 10766
+    m_SelectedIDs: 382a0000
+    m_LastClickedID: 10808
     m_ExpandedIDs: 000000000e2a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -36022,10 +36512,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 198
-    height: 656
+    x: 955
+    y: 81
+    width: 102
+    height: 647
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
@@ -36113,10 +36603,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 198
-    y: 73
-    width: 719
-    height: 656
+    x: 1057
+    y: 81
+    width: 276
+    height: 647
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 14d3d65075e15e1449bfa04202ca5951
@@ -36211,10 +36701,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 919
-    y: 73
-    width: 722
-    height: 656
+    x: 1335
+    y: 81
+    width: 202
+    height: 647
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
@@ -36227,10 +36717,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -361
-    m_HBaseRangeMax: 361
-    m_VBaseRangeMin: -203
-    m_VBaseRangeMax: 203
+    m_HBaseRangeMin: -101
+    m_HBaseRangeMax: 101
+    m_VBaseRangeMin: -57
+    m_VBaseRangeMax: 57
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -36248,25 +36738,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 722
-      height: 639
+      width: 202
+      height: 630
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 361, y: 319.5}
+    m_Translation: {x: 101, y: 315}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -361
-      y: -319.5
-      width: 722
-      height: 639
+      x: -101
+      y: -315
+      width: 202
+      height: 630
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 722, y: 656}
+  m_LastWindowPixelSize: {x: 202, y: 647}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

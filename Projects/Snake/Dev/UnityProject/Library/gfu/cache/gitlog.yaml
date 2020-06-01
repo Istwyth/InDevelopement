@@ -13,9 +13,189 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-28T18:55:10.745+01:00
-  initializedAtString: 2020-05-28T18:45:26.202+01:00
+  lastUpdatedAtString: 2020-06-01T20:05:00.739+01:00
+  initializedAtString: 2020-06-01T19:58:39.659+01:00
   log:
+  - commitID: 8d9aec47bda2dc85d81abd77591f9c430144629f
+    mergeA: 
+    mergeB: 
+    authorName: rapson-martyn
+    authorEmail: martyn4700@gmail.com
+    commitEmail: martyn4700@gmail.com
+    commitName: rapson-martyn
+    summary: Created Dev Branch (For Martyn)
+    description: Created my own Dev branch in Unity for the Snake project
+    timeString: 2020-05-28T18:57:54.000+01:00
+    commitTimeString: 2020-05-28T18:57:54.000+01:00
+    changes:
+    - path: Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\StateCache\Hierarchy\671531-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\671531-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Projects\Snake\Dev\UnityProject\Unity.gitignore
+      fullPath: C:\Users\Win 7\Documents\GitHub\InDevelopement\Projects\Snake\Dev\UnityProject\Unity.gitignore
+      projectPath: Unity.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 00e2dc7079fb69e1e3bdd544534d25e0a364b54c
     mergeA: 
     mergeB: 

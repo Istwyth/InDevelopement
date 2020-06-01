@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{27E3B7BB-7210-4DB8-2CDE-8C5F9221D3B6}</ProjectGuid>
+    <ProjectGuid>{5B580621-09B4-68CB-B5F4-5B9DD210A60F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -72,25 +72,25 @@
     <Compile Include="Assets\SnakeMovement\SnakeBodyControl.cs" />
     <Compile Include="Assets\SnakeTailControl.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -276,13 +276,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.6f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/_GameDev/SpikeWork/Snake/Snake/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Win 7/Documents/GitHub/InDevelopement/Projects/Snake/Dev/UnityProject/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.6f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
