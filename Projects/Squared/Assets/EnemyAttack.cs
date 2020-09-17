@@ -9,26 +9,46 @@ public class EnemyAttack : MonoBehaviour
     public float distance;
     private bool facingRight = true;
 
+    private bool patrol = false;
+
      public float time;
 
     private void FlipCharacter()
     {
+        if (patrol)
+        {
+            GetComponent<Patrol>().FlipCharacter();
+        }
         facingRight = !facingRight;
         transform.Rotate(0f,180f, 0f);
     }
 
-    
-   // Update is called once per frame
+    private void Start()
+    {
+        if(GetComponent<Patrol>() != null)
+        {
+            patrol = true;
+            Debug.Log("PATROLLER");
+        }
+    }
+
+
+    // Update is called once per frame
     void Update()
     {
-       
-        RaycastHit2D detectLeft = Physics2D.Raycast(transform.position, ( Vector2.left), distance, LayerMask.GetMask("Player")
-);
-        RaycastHit2D detectRight =Physics2D.Raycast(transform.position, ( Vector2.right), distance, LayerMask.GetMask("Player")
-);       time += Time.deltaTime;
-         if(time >= 1)
-         {
-             time = 0;
+        if (time < 1)
+        {
+            time += Time.deltaTime;
+            return;
+        }
+
+        if (patrol)
+        {
+            facingRight = GetComponent<Patrol>().GetMovingRight();
+        }
+
+        RaycastHit2D detectLeft = Physics2D.Raycast(transform.position, ( Vector2.left), distance, LayerMask.GetMask("Player"));
+        RaycastHit2D detectRight = Physics2D.Raycast(transform.position, (Vector2.right), distance, LayerMask.GetMask("Player")); 
             if (detectLeft.transform != null)
             {
                 if(detectLeft.transform.tag == "Player")
@@ -37,9 +57,9 @@ public class EnemyAttack : MonoBehaviour
                     {
                          FlipCharacter();
                     }
-                        
-                    Instantiate(projectile, firePosition.position, firePosition.rotation);
-                }
+
+                FireWeapon();
+            }
             }
             if (detectRight.transform != null)
             {  
@@ -50,12 +70,16 @@ public class EnemyAttack : MonoBehaviour
                         FlipCharacter();
 
                     }
-                     Instantiate(projectile, firePosition.position, firePosition.rotation);
-
-                 }
+                    FireWeapon();
             }
-    }
+            }
         
+    }
+
+    private void FireWeapon()
+    {
+        Instantiate(projectile, firePosition.position, firePosition.rotation);
+        time = 0;
     }
 }
 
