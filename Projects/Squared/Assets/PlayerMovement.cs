@@ -14,7 +14,7 @@ public class PlayerMovement : MonoBehaviour
     public int maxJumpCount;
 
     private Rigidbody2D rb;
-    private bool facingRight = true;
+    public bool facingRight = true;
     private float moveDirection;
     private bool isJumping = false;
     private bool isGrounded;
@@ -83,7 +83,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void FlipCharacter()
+    public void FlipCharacter()
     {
         facingRight = !facingRight;
         transform.Rotate(0f,180f, 0f);
