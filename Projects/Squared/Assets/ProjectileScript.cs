@@ -25,7 +25,7 @@ public class ProjectileScript : MonoBehaviour
        Debug.Log("TRIGGERED");
        Instantiate(impactEffect, transform.position, Quaternion.identity);
        Destroy(gameObject);
-       if (collision.GetComponent<EnemyBehaviour>() != null || collision.GetComponent<PlayerHealthBehaviour>() != null)
+       if (collision.GetComponent<HealthBehaviour>() != null)
        {
         collision.SendMessage("TakeHit", 1f);
        }
