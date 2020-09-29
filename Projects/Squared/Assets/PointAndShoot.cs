@@ -36,17 +36,17 @@ public class PointAndShoot : MonoBehaviour
             if((rotationZ <= 90 && rotationZ >= -90) && !playerMovement.facingRight)
             {
                 playerMovement.FlipCharacter();
-                Debug.Log("Turn Right");
+                //Debug.Log("Turn Right");
             } else
             {
                 if ((rotationZ > 90 || rotationZ < -90) && playerMovement.facingRight)
                 {
                     playerMovement.FlipCharacter();
-                    Debug.Log("Turn Left");
+                    //Debug.Log("Turn Left");
                 }
-                Debug.Log("Else");
+                //Debug.Log("Else");
             }
-            Debug.Log("Not Null");
+            //Debug.Log("Not Null");
         }
 
         if(Input.GetMouseButtonDown(0))
