@@ -26,7 +26,7 @@ public class Patrol : MonoBehaviour
         RaycastHit2D groundInfo = Physics2D.Raycast(groundDetection.position, Vector2.down, 2f, LayerMask.GetMask("Ground"));
 
         Debug.DrawRay(wallDetection.position, Vector2.down, Color.green, 0.0f, false);
-        Debug.DrawRay(groundDetection.position, Vector2.down, Color.green, 0.0f, false);
+        Debug.DrawRay(groundDetection.position, Vector2.down* 2f, Color.green, 0.0f, false);
 
         if (!groundInfo.collider)
         {

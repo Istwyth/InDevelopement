@@ -14,16 +14,19 @@ public class PlayerMovement : MonoBehaviour
     public int maxJumpCount;
 
     private Rigidbody2D rb;
+    private Animator animator;
     public bool facingRight = true;
     private float moveDirection;
     private bool isJumping = false;
     private bool isGrounded;
     private int jumpCount;
 
+    public bool isMoving = false;
+
    private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-
+        animator = GetComponent<Animator>();
     }
 
     private void start()
@@ -36,7 +39,8 @@ public class PlayerMovement : MonoBehaviour
     {
         ProcessInputs();
         Animate();
-        
+        isMoving = GetVelocity() > 0;
+        animator.SetBool("isMoving", isMoving);
     }
 
     private void FixedUpdate()
@@ -87,6 +91,11 @@ public class PlayerMovement : MonoBehaviour
     {
         facingRight = !facingRight;
         transform.Rotate(0f,180f, 0f);
+    }
+
+    public float GetVelocity()
+    {
+        return rb.velocity.magnitude;
     }
 
 
