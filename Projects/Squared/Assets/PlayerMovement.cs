@@ -40,7 +40,18 @@ public class PlayerMovement : MonoBehaviour
         ProcessInputs();
         Animate();
         isMoving = GetVelocity() > 0;
-        animator.SetBool("isMoving", isMoving);
+
+        if(GetVelocity() > 0)
+        {
+            isMoving = true;
+            animator.SetBool("isMoving", true);
+        } else
+        {
+            isMoving = false;
+            animator.SetBool("isMoving", false);
+        }
+
+        //animator.SetBool("isMoving", isMoving);
     }
 
     private void FixedUpdate()
