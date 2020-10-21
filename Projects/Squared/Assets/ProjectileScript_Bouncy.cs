@@ -11,7 +11,8 @@ public class ProjectileScript_Bouncy : MonoBehaviour
     private Rigidbody2D rigidBody;
 
     public int wallBounceMaximum = 10; 
-    private int wallBounceCount = 0; 
+    private int wallBounceCount = 0;
+    public float bounceMultiplier = 1f;
 
     // Start is called before the first frame update
     void Start()
@@ -29,7 +30,9 @@ public class ProjectileScript_Bouncy : MonoBehaviour
             Vector2 closestPoint = collision.ClosestPoint(transform.position);
             Vector2 normalToSurface = new Vector2(transform.position.x - closestPoint.x, transform.position.y - closestPoint.y);
 
-            rigidBody.velocity = Vector3.Reflect(rigidBody.velocity.normalized, normalToSurface.normalized) * projectileSpeed;
+            float currentVelocity = rigidBody.velocity.magnitude;
+
+            rigidBody.velocity = Vector3.Reflect(rigidBody.velocity.normalized, normalToSurface.normalized) * (currentVelocity * bounceMultiplier);
             wallBounceCount++;
         }
         else
