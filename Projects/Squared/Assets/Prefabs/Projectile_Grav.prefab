@@ -164,4 +164,4 @@ MonoBehaviour:
   impactEffect: {fileID: 5983615563950165271, guid: 7e78336dba4e84d4f9a75a4e79a35d20,
     type: 3}
   wallBounceMaximum: 10
-  bounceMultiplier: 0.5
+  bounceMultiplier: 0.75
