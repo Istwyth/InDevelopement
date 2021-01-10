@@ -52,6 +52,14 @@ public class PlayerController : MonoBehaviour
         
     }
 
+    private void OnTriggerEnter2D(Collider2D star) // Handles the collisions between Player and Star
+    {
+        if(star.gameObject.CompareTag("Star"))
+        {
+            Destroy(star.gameObject);
+        }
+    }
+
     private void FixedUpdate()
     {
         //Move
