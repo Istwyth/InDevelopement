@@ -9,9 +9,6 @@ public class MeleeAttack : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.gameObject.layer);
-        Debug.Log(creatureLayers);
-
         if(collision.gameObject.layer == creatureLayers)
         {
             Debug.Log(gameObject.name + " hit something");
