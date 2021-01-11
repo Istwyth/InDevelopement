@@ -10,13 +10,17 @@ public class PlayerController : MonoBehaviour
     public Transform ceilingCheck;
     public Transform groundCheck;
     public LayerMask groundObjects;
-    public float checkRadius;
+    public float checkWidth;
+    public float checkHeight;
+
+    private Vector2 checkOffsetDownLeft;
+    private Vector2 checkOffsetUpRight;
     
     private Rigidbody2D rb;
     private bool facingRight = true;
     private float moveDirection;
     private bool isJumping = false;
-    private bool isGrounded;
+    [SerializeField] private bool isGrounded;
 
     //Dash Variables
     private bool isDashing;
@@ -25,14 +29,20 @@ public class PlayerController : MonoBehaviour
     public float distanceBetweenImages;
     public float dashCoolDown;
     private float dashTimeLeft;
-    private float lastImageXpos;
+    private Vector2 lastImagePos;
     private float lastDash = -100f;
+
+    private SpriteRenderer spriteRenderer;
 
 
     // Awake is called before the Start method
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>(); // will look for a component on this GameObject
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        checkOffsetUpRight = new Vector2(+(checkWidth / 2), +(checkHeight / 2));
+        checkOffsetDownLeft = new Vector2(-(checkWidth / 2), - (checkHeight / 2));
 
     }
 
@@ -40,7 +50,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
             //Check if Player is grounded
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundObjects);
+        //isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkHeight, groundObjects);
+        isGrounded = Physics2D.OverlapArea(((Vector2) groundCheck.position)+ checkOffsetUpRight, ((Vector2)groundCheck.position) + checkOffsetDownLeft, groundObjects);
 
         //Get player inputs
         ProcessInputs();
@@ -76,12 +87,17 @@ public class PlayerController : MonoBehaviour
         if(Input.GetButtonDown("Dash"))
         {
             if(Time.time >= (lastDash + dashCoolDown))
-            
-            AttemptToDash();
-            
-            
+            {
+                AttemptToDash();
+            }        
         }
         
+    }
+
+    private void CreateAfterImage()
+    {
+        GameObject afterImage = PlayerAfterImagePool.Instance.GetFromPool();
+        afterImage.GetComponent<PlayerAfterImageSprite>().SetParameters(spriteRenderer.sprite, transform.position, transform.rotation);
     }
 
     private void AttemptToDash()
@@ -90,8 +106,10 @@ public class PlayerController : MonoBehaviour
         dashTimeLeft = dashTime;
         lastDash = Time.time;
 
-        PlayerAfterImagePool.Instance.GetFromPool();
-        lastImageXpos = transform.position.x;
+        CreateAfterImage();
+        lastImagePos = transform.position;
+
+        rb.velocity = new Vector2(rb.velocity.x * dashSpeed, rb.velocity.y * dashSpeed);
 
     }
 
@@ -102,13 +120,14 @@ public class PlayerController : MonoBehaviour
             if(dashTimeLeft > 0)
             {
                 
-                rb.velocity = new Vector2(dashSpeed * moveDirection, rb.velocity.y);
+                //rb.velocity = new Vector2(dashSpeed * moveDirection, rb.velocity.y);
+                
                 dashTimeLeft -= Time.deltaTime;
 
-                if(Mathf.Abs(transform.position.x - lastImageXpos) > distanceBetweenImages)
+                if(Mathf.Abs(((Vector2)((Vector2)transform.position) - lastImagePos).magnitude) > distanceBetweenImages)
                 {
-                    PlayerAfterImagePool.Instance.GetFromPool();
-                    lastImageXpos = transform.position.x;
+                    CreateAfterImage();
+                    lastImagePos = transform.position;
                 }
             }
             
@@ -123,11 +142,18 @@ public class PlayerController : MonoBehaviour
 
     private void Move()
     {
-        rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
-        if(isJumping)
+        float dashMultiplier = 1f;
+        if (isDashing)
         {
-            rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
-        } isJumping = false;
+            dashMultiplier *= dashSpeed;
+        }
+
+        rb.velocity = new Vector2(moveDirection * moveSpeed * dashMultiplier, rb.velocity.y);
+        if (isJumping)
+        {
+            rb.AddForce(new Vector2(0f, jumpForce * dashMultiplier), ForceMode2D.Impulse);
+            isJumping = false;
+        } 
     }
 
     private void Animate()

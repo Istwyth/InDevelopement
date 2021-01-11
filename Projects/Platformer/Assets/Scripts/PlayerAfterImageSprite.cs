@@ -21,14 +21,14 @@ public class PlayerAfterImageSprite : MonoBehaviour
     private void OnEnable()
     {
         SR = GetComponent<SpriteRenderer>();
-        player = GameObject.FindGameObjectWithTag("Player").transform;
-        playerSR = player.GetComponent<SpriteRenderer>();
+        /*player = GameObject.FindGameObjectWithTag("Player").transform;
+        playerSR = player.GetComponent<SpriteRenderer>();*/
 
         alpha = alphasSet;
 
-        SR.sprite = playerSR.sprite;
+        /*SR.sprite = playerSR.sprite;
         transform.position = player.position;
-        transform.rotation = player.rotation;
+        transform.rotation = player.rotation;*/
         timeActivated = Time.time;
 
 
@@ -47,6 +47,13 @@ public class PlayerAfterImageSprite : MonoBehaviour
 
         }
 
+    }
+
+    public void SetParameters(Sprite playerSprite, Vector3 playerPosition, Quaternion playerRotation)
+    {
+        SR.sprite = playerSprite;
+        transform.position = playerPosition;
+        transform.rotation = playerRotation;
     }
 
 

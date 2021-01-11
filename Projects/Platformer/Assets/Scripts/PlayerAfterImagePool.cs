@@ -10,11 +10,17 @@ public class PlayerAfterImagePool : MonoBehaviour
 
     private Queue<GameObject> availableObjects = new Queue<GameObject>(); // store the pool of unused player prefabs
 
-    public static PlayerAfterImagePool Instance { get; private set; }
+    public static PlayerAfterImagePool Instance { get; private set; } = null;
 
     private void Awake()
     {
-        Instance = this;
+        if(Instance == null)
+        {
+            Instance = this;
+        } else
+        {
+            Destroy(this);
+        }
         GrowPool();
 
     }
@@ -37,6 +43,7 @@ public class PlayerAfterImagePool : MonoBehaviour
         instance.SetActive(false);
         availableObjects.Enqueue(instance);
     }
+
     public GameObject GetFromPool()
     {
         if(availableObjects.Count == 0)
