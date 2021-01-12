@@ -12,6 +12,7 @@ public class Star : MonoBehaviour
         if(starCounter.gameObject.CompareTag("Player"))
         {
             ScoreManager.instance.ChangeScore(starValue);
+            Destroy(gameObject);
         }
     }
 

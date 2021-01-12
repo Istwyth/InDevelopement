@@ -65,10 +65,10 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D star) // Handles the collisions between Player and Star
     {
-        if(star.gameObject.CompareTag("Star"))
+        /*if(star.gameObject.CompareTag("Star"))
         {
             Destroy(star.gameObject);
-        }
+        }*/
     }
 
     private void FixedUpdate()
@@ -91,7 +91,11 @@ public class PlayerController : MonoBehaviour
                 AttemptToDash();
             }        
         }
-        
+        if (Input.GetButtonDown("Attack"))
+        {
+            GetComponentInChildren<MeleeAttack>().InitiateAttack();
+        }
+
     }
 
     private void CreateAfterImage()
